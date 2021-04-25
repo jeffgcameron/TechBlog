@@ -8,6 +8,10 @@
     "start": "node server.js",
     "seed": "node seeds/seed.js"
   },
+  "production": {
+    "use_env_variable": "JAWDB_URL",
+    "dialect": "mysql"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
