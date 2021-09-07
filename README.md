@@ -2,7 +2,11 @@
     By Jeff Cameron
 
 ## Description
-This app allowes users to sign in, or sign up, and create blog posts.
+TechBlog provides user with a one stop shop to learn about anything in the tech industy. Users can use this platform to share their own knowledge as well.
+
+## Application Screenshot
+![Tech BLog](./public/Images/TechBlog.png)
+
 
 ## Table of Contents
 
@@ -18,9 +22,6 @@ This app allowes users to sign in, or sign up, and create blog posts.
 * [Tests](#test)
 
 
-* [Github](#github)
-
-
 * [Questions](#questions)
 
 
@@ -28,19 +29,16 @@ This app allowes users to sign in, or sign up, and create blog posts.
 
 
 ## Installation
-Please sign up in order to create a post.
+Please sign in or sign up in order to create a post.
 
 ## Usage
-This project is used to share insight on anything related to tech.
+This project is used to easily share insight on anything related to tech.
 
 ## License
 This application is covered under the MIT license.
 
 ## Tests
-I tested the application on my LocalHost and Heroku.
-
-### Github
-Visit my Github Profile at https://github.com/jeffgcameron
+I tested the application on my Local Host and Heroku.
 
 ### Questions 
 Email me at jeffgcameron@gmail.com
